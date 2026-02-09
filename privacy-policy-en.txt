@@ -1,1 +1,75 @@
 
+Privacy Policy – Warrantly Ping
+Last updated: 06 February 2026
+App: Warrantly Ping (“App”)
+Provider / Controller: Thomas Rakowski (“we”, “us”)
+
+1. Purpose of the App
+The App helps you organize purchase receipts, manage warranty and return periods, and receive reminders in time.
+
+2. What data does the App process?
+2.1 Data you enter or store
+Product / item name
+Merchant / seller
+Purchase date, warranty and/or return periods, reminder times
+Optional: price, serial number, notes, categories/tags
+Receipt images/scans (e.g., store receipts, invoices) and, if supported, other attachments
+2.2 Notifications
+If you enable notifications, the App creates local notifications on your device (e.g., “Warranty expires in 7 days”). This requires your permission in iOS settings.
+2.3 Subscription / In-App Purchase
+If you purchase a subscription, the App processes technical information required to unlock subscription features (e.g., current subscription status / transaction verification via Apple StoreKit).
+We do not process payment details (e.g., credit card, PayPal). Payments are handled exclusively by Apple through the App Store.
+
+3. Where is the data stored?
+3.1 On-device (local) storage
+By default, your content is stored on your device.
+3.2 Optional: iCloud synchronization
+If you enable iCloud sync, your App data is additionally stored in Apple iCloud (CloudKit) and synchronized across devices linked to your Apple ID.
+Apple processes this data as part of your iCloud usage under Apple’s own responsibility. Apple’s privacy policy applies.
+
+4. Sharing with third parties
+We do not sell data and we do not share personal data with third parties.
+Data may be transmitted if you use iCloud sync (see 3.2) or if Apple services (e.g., App Store, billing, App Analytics) are involved as part of your Apple usage.
+
+5. Apple Analytics / Crash Reports
+We do not use third-party analytics or third-party crash reporting tools (e.g., Firebase, Sentry).
+Depending on your iOS settings, Apple may collect and process diagnostics and usage information (e.g., app crashes, performance data, app usage). Apple may provide these insights to us in an aggregated/processed form via App Store Connect or Xcode tools. The scope of this depends on your device and Apple settings (e.g., whether you enabled sharing of analytics/diagnostics).
+
+6. Permissions (iOS)
+Depending on how you use the App, it may request the following permissions:
+Camera/Photos: to capture or import receipts
+Notifications: to deliver reminders
+You can grant or revoke permissions at any time in iOS settings.
+
+7. User responsibility
+You are responsible for the content you store in the App and for ensuring you are authorized to store it (e.g., your own receipts). You are also responsible for protecting your device and Apple ID (e.g., passcode/Face ID, secure Apple ID access).
+
+8. Important notice: Not a certified archive / keep original receipts
+The App is not a certified document archiving or accounting program and does not replace any legal or tax retention requirements.
+Scanned receipts should not be discarded if you need the originals for warranty/consumer rights, taxes, or other proof. The App is intended for organization and reminders, not for legally compliant archiving.
+
+9. Storage period, deletion, and device changes
+You can delete entries and receipts in the App at any time.
+If iCloud sync is enabled, it may take some time for deletions to propagate everywhere, depending on Apple’s backup/sync mechanisms and your iCloud/backup settings.
+Notifications are scheduled per device. After reinstalling the App or switching devices, the App may recreate reminders from your stored data.
+
+10. Legal bases (EU/GDPR, where applicable)
+Where the GDPR applies, processing typically occurs:
+to provide App functionality (Art. 6(1)(b) GDPR)
+based on your consent for optional features such as notifications and iCloud sync (Art. 6(1)(a) GDPR)
+Apple diagnostics/analytics depending on your device settings and Apple’s responsibility.
+
+11. Your rights
+Depending on applicable law, you may have rights to access, rectification, erasure, restriction of processing, data portability, and objection.
+Since most data is stored locally and/or in your iCloud, many rights can be exercised in practice by editing/deleting within the App and via iOS/iCloud settings. For inquiries, contact: thomas.rakowski@icloud.com
+
+12. Children
+The App is not specifically directed at children. If you wish to implement age-related requirements (e.g., under 13), please add an appropriate statement here.
+
+13. Changes to this Privacy Policy
+We may update this Privacy Policy, for example due to feature changes or legal requirements. The date at the top indicates the current version.
+
+
+
+
+We may update this Privacy Policy, for example due to feature changes or legal requirements. The date at the top indicates the current version.
