@@ -1,0 +1,88 @@
+Datenschutzerklärung – Warrantly Ping
+Stand: 06.02.2026
+App: Warrantly Ping („App“)
+Anbieter/Verantwortlicher: Thomas Rakowski
+
+1. Zweck der App
+Die App unterstützt Sie dabei, Kaufbelege zu organisieren sowie Garantie- und Rückgabefristen zu verwalten und rechtzeitig erinnert zu werden.
+
+2. Welche Daten verarbeitet die App?
+2.1 Daten, die Sie eingeben oder speichern
+Produkt-/Artikelname
+Händler/Verkäufer
+Kaufdatum, Garantie- und/oder Rückgabefristen, Erinnerungszeitpunkte
+Optional: Preis, Seriennummer, Notizen, Kategorien/Tags
+Belegbilder/Scans (z. B. Kassenbons, Rechnungen), ggf. weitere Anhänge
+2.2 Benachrichtigungen
+Wenn Sie Benachrichtigungen aktivieren, erstellt die App lokale Mitteilungen auf Ihrem Gerät (z. B. „Garantie endet in 7 Tagen“). Dafür benötigt die App Ihre Zustimmung in iOS.
+
+2.3 Abo/ In-App Purchase
+Wenn Sie ein Abo abschließen, verarbeitet die App technische Informationen zur Freischaltung des Abos (z. B. aktueller Abo-Status/Transaktionsnachweis über Apple StoreKit).
+Zahlungsdaten (z. B. Kreditkarte, PayPal) werden nicht von uns verarbeitet, sondern ausschließlich durch Apple im Rahmen des App Store.
+
+3. Wo werden die Daten gespeichert?
+3.1 Lokal auf dem Gerät
+Standardmäßig werden Ihre Inhalte auf Ihrem Gerät gespeichert.
+3.2 Optional: iCloud-Synchronisierung
+Wenn Sie iCloud-Sync aktivieren, werden Ihre App-Daten zusätzlich in Apple iCloud (CloudKit) gespeichert und zwischen Ihren Geräten synchronisiert, die mit Ihrer Apple-ID verbunden sind.
+Apple verarbeitet diese Daten im Rahmen Ihrer iCloud-Nutzung eigenverantwortlich; es gelten die Datenschutzbestimmungen von Apple.
+
+4. Weitergabe an Dritte
+Wir verkaufen keine Daten und geben keine personenbezogenen Daten an Dritte weiter.
+Eine Datenübermittlung kann sich ergeben, wenn Sie iCloud-Sync nutzen (siehe 3.2) oder wenn Apple-Dienste (z. B. App Store, Abrechnung, App Analytics) im Rahmen Ihrer Apple-Nutzung beteiligt sind.
+5. Apple Analytics / Crash-Reports
+Wir verwenden keine Drittanbieter-Analytics oder Drittanbieter-Crash-Tools (z. B. Firebase, Sentry).
+Je nach iOS-Einstellungen können jedoch Apple-eigene Diagnose- und Nutzungsstatistiken an Apple übermittelt werden (z. B. App-Abstürze, Leistungsdaten, App-Nutzung), die uns Apple ggf. in aggregierter/ausgewerteter Form in App Store Connect oder Xcode-Tools bereitstellt. Umfang und Übermittlung hängen von Ihren Geräte- und Apple-Einstellungen ab (z. B. ob Sie „Diagnosedaten teilen“ aktiviert haben).
+
+6. Berechtigungen (iOS)
+Die App kann – abhängig von Ihrer Nutzung – folgende Berechtigungen anfragen:
+Kamera/Fotos: zum Erfassen/Importieren von Belegen
+Mitteilungen: für Erinnerungen
+Sie können Berechtigungen jederzeit in iOS Einstellungen erteilen oder widerrufen.
+
+7. Verantwortung der Nutzerinnen und Nutzer
+Sie sind verantwortlich für die Inhalte, die Sie in der App speichern, und dafür, dass Sie hierzu berechtigt sind (z. B. eigene Belege). Außerdem sind Sie dafür verantwortlich, Ihr Gerät und Ihre Apple-ID angemessen zu schützen (z. B. Gerätecode/Face ID, sichere Apple-ID).
+
+8. Wichtiger Hinweis: Kein zertifiziertes Archiv / Originalbelege
+Die App ist kein zertifiziertes Datenarchivierungs- oder Buchhaltungsprogramm und ersetzt keine gesetzlich oder steuerlich erforderliche Aufbewahrung.
+Eingescannte Belege sollten nicht weggeworfen werden, sofern Sie diese im Original für Gewährleistung/Garantie, Steuer oder andere Nachweise benötigen. Die App dient der Organisation und Erinnerung, nicht der rechtssicheren Archivierung.
+
+9. Speicherdauer, Löschung und Gerätewechsel
+Sie können Einträge und Belege in der App jederzeit löschen.
+Bei iCloud-Sync kann es je nach Apple-Backup/Sync-Mechanismen eine gewisse Zeit dauern, bis Löschungen überall wirksam sind (abhängig von Ihren iCloud-/Backup-Einstellungen).
+Benachrichtigungen werden auf dem jeweiligen Gerät geplant; nach Neuinstallation/Wechsel kann die App Erinnerungen aus den gespeicherten Daten erneut einrichten.
+
+
+10. Rechtsgrundlagen (EU/DSGVO, soweit anwendbar)
+Soweit die DSGVO anwendbar ist, erfolgt die Verarbeitung typischerweise:
+zur Bereitstellung der App-Funktionen (Art. 6 Abs. 1 lit. b DSGVO)
+aufgrund Ihrer Einwilligung für optionale Funktionen wie Benachrichtigungen und iCloud-Sync (Art. 6 Abs. 1 lit. a DSGVO)
+Apple-Diagnose/Analytics nach Ihren Geräteeinstellungen und Apples Verantwortlichkeit.
+
+11. Ihre Rechte
+Je nach anwendbarem Recht haben Sie insbesondere Rechte auf Auskunft, Berichtigung, Löschung, Einschränkung, Datenübertragbarkeit und Widerspruch.
+Da die Daten überwiegend lokal bzw. in Ihrer iCloud gespeichert werden, können Sie viele Rechte praktisch durch Bearbeiten/Löschen in der App sowie über iOS/iCloud-Einstellungen ausüben. Für Anfragen kontaktieren Sie uns unter thomas.rakowski@icloud.com
+
+12. Kinder
+Die App richtet sich nicht speziell an Kinder. Wenn Sie Anforderungen wie Altersgrenzen (z. B. unter 13) abbilden möchten, ergänzen Sie hier eine entsprechende Formulierung.
+
+13. Änderungen dieser Datenschutzerklärung
+Wir können diese Datenschutzerklärung anpassen, z. B. bei Funktionsänderungen oder rechtlichen Anforderungen. Das Datum oben zeigt die aktuelle Version.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
